@@ -1,0 +1,7 @@
+F:\Newton Operation\Newton Operation\bin\Debug\Newton Operation.exe.config
+F:\Newton Operation\Newton Operation\bin\Debug\Newton Operation.exe
+F:\Newton Operation\Newton Operation\bin\Debug\Newton Operation.pdb
+F:\Newton Operation\Newton Operation\obj\Debug\Newton Operation.csproj.AssemblyReference.cache
+F:\Newton Operation\Newton Operation\obj\Debug\Newton Operation.csproj.CoreCompileInputs.cache
+F:\Newton Operation\Newton Operation\obj\Debug\Newton Operation.exe
+F:\Newton Operation\Newton Operation\obj\Debug\Newton Operation.pdb
